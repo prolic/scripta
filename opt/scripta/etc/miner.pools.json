@@ -1,18 +1,13 @@
 [
     {
-        "url": "stratum tcp:\/\/usa.wemineltc.com:3336",
-        "user": "mox235.1",
-        "pass": "\"1\""
+        "url": " stratum+tcp://scrypt1.poolwarz.com:8080",
+        "user": "18443.scripta",
+        "pass": "x"
     },
     {
-        "url": "stratum tcp:\/\/united.wemineltc.com:3335",
-        "user": "mox235.1",
-        "pass": "\"1\""
-    },
-    {
-        "url": "stratum tcp:\/\/stratum.scryptguild.com:3333",
-        "user": "mox235_gridseed",
-        "pass": "\"1\""
+        "url": "stratum+tcp://stratum.scryptguild.com:3333",
+        "user": "minereu_scripta",
+        "pass": "x"
     }
 ]
 
