@@ -45,7 +45,7 @@
     },
     {
 	"key": "gridseed-options",
-	"value": "baud=115200,chips=40,freq=800"
+	"value": "baud=115200,chips=40,freq=838"
     },
     {
 	"key": "gridseed-freq",

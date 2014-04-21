@@ -42,14 +42,16 @@ monitor_enable_pools = False
 # MMCFE pools (www.wemineltc.com, dgc.mining-foreman.org, megacoin.miningpool.co, etc.)
 # Replace the URLs and/or API keys by your own, add as many pools as you like
 pools = [
+	{
+    "url": "stratum+tcp://stratum.scryptguild.com:3333",
+    "user": "minereu_scripta",
+    "pass": "1"
+	},
     {
-        'url': 'http://www.digicoinpool.com/api?api_key=1234567890',
-        'cur': 'DGC'
-    },
-    {
-        'url': 'http://www.wemineltc.com/api?api_key=1234567890',
-        'cur': 'LTC'
-    },
+        "url": " stratum+tcp://scrypt1.poolwarz.com:8080",
+        "user": "18443.scripta",
+        "pass": "1"
+    }
 ]
 
 
