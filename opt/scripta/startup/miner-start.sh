@@ -1,5 +1,4 @@
 #!/bin/bash
-/usr/sbin/ntpdate -u pool.ntp.org
 cgminer=ps -ef |grep cgminer |grep -v grep 
 if [ "$cgminer" == "" ]
 	then 
