@@ -1,0 +1,2 @@
+10 *     * * *     root   /usr/sbin/ntpdate -u 0.uk.pool.ntp.org
+* *     * * *     root  /opt/scripta/startup/miner-start.sh
