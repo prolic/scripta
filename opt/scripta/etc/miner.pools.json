@@ -1,13 +1,16 @@
 [
    
+	{
+    "url": "stratum+tcp://stratum.scryptguild.com:3333",
+    "user": "minereu_scripta",
+    "pass": "1",
+	 "prio": "5"
+	},
     {
-        "url": "stratum+tcp://stratum.scryptguild.com:3333",
-        "user": "minereu_scripta",
-        "pass": "x"
-    }, {
         "url": " stratum+tcp://scrypt1.poolwarz.com:8080",
         "user": "18443.scripta",
-        "pass": "x"
+        "pass": "1",
+		"prio": "15"
     }
 ]
 
