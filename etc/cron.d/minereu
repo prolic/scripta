@@ -1,2 +1,8 @@
 10 *     * * *     root   /usr/sbin/ntpdate -u 0.uk.pool.ntp.org
+
 * *     * * *     root  /opt/scripta/startup/miner-start.sh
+* *     * * *     root  sleep 10;/opt/scripta/startup/miner-start.sh
+* *     * * *     root  sleep 20;/opt/scripta/startup/miner-start.sh
+* *     * * *     root  sleep 30;/opt/scripta/startup/miner-start.sh
+* *     * * *     root  sleep 40;/opt/scripta/startup/miner-start.sh
+* *     * * *     root  sleep 50;/opt/scripta/startup/miner-start.sh
