@@ -1,6 +1,6 @@
 
 Inital information compiled from lots of good stuff around Scripta at litecointalk
-[fourm posts](https://litecointalk.org/index.php?topic=9908.msg143787#msg143787)
+[forum posts](https://litecointalk.org/index.php?topic=9908.msg143787#msg143787)
 
 1. Started with Scripta 1.1 [image](http://www.lateralfactory.com/download.php?file=scripta-1_1.tgz)
   * source files in image do not match current Scripta [repo](https://github.com/scriptamining/scripta.git)  
